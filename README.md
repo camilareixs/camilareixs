@@ -10,6 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camilareixs&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilareixs&layout=compact&langs_count=7&theme=midnight-purple"/>
  
 </div>
 
