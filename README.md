@@ -43,3 +43,10 @@
   </a>
 </div>
 
+### 📈 Tecnologias em Foco
+
+```plaintext
+- Desenvolvimento Web: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, Python, Django
+- Banco de Dados: MongoDB, MySQL
+
