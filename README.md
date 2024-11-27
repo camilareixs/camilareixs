@@ -1,52 +1,47 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&color=ffff00&center=true&vCenter=false&width=500&height=40&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&color=e4b650&center=true&vCenter=true&width=500&height=40&lines=Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <!-- Imagem de capa -->
+  <img src="Camila Reis (4).png" alt="Camila Reis" width="100%" height="auto"/>
 </div>
 
 ##
-##### _Estou atualziando o perfil..._
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilareixs&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilareixs&layout=compact&langs_count=7&theme=midnight-purple"/>
- 
-</div>
+### _Atualmente estou atualizando meu perfil..._
 
 <br>
 
-<div style="display: inline_block"align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+<!-- Estatísticas e atividades do GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camilareixs&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilareixs&theme=radical" alt="GitHub streak stats" width="49%" />
 </div>
 
-  <br>
-  <br>
+<br>
+
+<br>
+
+<!-- GitHub Commits Graph -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/camilareixs" alt="GitHub Commits Graph" width="100%" />
+</div>
+
+<br>
+<br>
+
+<!-- Tecnologias e habilidades -->
+### 💻 Tecnologias que estou aprendendo e praticando
 
 <div align="center">
-  <hr>
-  <p style="font-size: 14px; color:ffff00;">Entre em contato comigo:</p>
-  <a href="https://www.linkedin.com/in/camilalaurindoreis/">
-    <img src="https://img.icons8.com/ios/30/FAB005/linkedin.png" target="_blank">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:camilalaurindoreis@gmail.com">
-    <img src="https://img.icons8.com/ios/30/FAB005/gmail--v1.png" target="_blank">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/camilareixs">
-    <img src="https://img.icons8.com/ios/30/FAB005/instagram-new--v1.png" target="_blank">
-  </a>
+  <img src="https://img.shields.io/badge/HTML-5-FFFFFF?style=for-the-badge&logo=html5&logoColor=#61355a" />
+  <img src="https://img.shields.io/badge/CSS-3-FFFFFF?style=for-the-badge&logo=css3&logoColor=#61355a" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=#61355a" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=#61355a" />
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=#61355a" />
 </div>
 
-### 📈 Tecnologias em Foco
-
-```plaintext
-- Desenvolvimento Web: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, Python, Django
-- Banco de Dados: MongoDB, MySQL
+<br>
 
