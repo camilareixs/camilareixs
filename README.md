@@ -25,30 +25,6 @@ My approach is centered on understanding the **business problem first** and then
 
 ---
 
-## 🚀 What I Do
-
-```text
-Business Problem
-      ↓
-Process Analysis
-      ↓
-Solution Design
-      ↓
-Low-Code / RPA Development
-      ↓
-System Integration
-      ↓
-Automation
-      ↓
-Data & Insights
-      ↓
-Continuous Improvement
-```
-
-I’m particularly interested in **enterprise automation**, **hyperautomation**, **solution architecture**, and the integration between **low-code and pro-code technologies**.
-
----
-
 ## 💻 Technologies & Skills
 
 ### Microsoft Power Platform
